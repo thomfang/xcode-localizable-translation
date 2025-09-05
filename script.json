@@ -1,1 +1,46 @@
-{"icon":"globe","runInApp":false,"intentInputTypes":[],"name":"Xcode Localizable Translation","color":"#8952CC"}
+{
+  "intentInputTypes" : [
+
+  ],
+  "localizedNames" : {
+    "zh" : "翻译Xcode Localizable",
+    "pt" : "",
+    "en" : "",
+    "ja" : "",
+    "es" : "",
+    "it" : "",
+    "fr" : "",
+    "ru" : "",
+    "de" : ""
+  },
+  "color" : "#8952CC",
+  "contributors" : [
+
+  ],
+  "description" : "A script use for translating Xcode localizable.xcstring.",
+  "icon" : "globe",
+  "author" : {
+    "name" : "Thom Fang",
+    "email" : "89650436@qq.com",
+    "homepage" : "https:\/\/github.com\/thomfang"
+  },
+  "version" : "1.0.0",
+  "remoteResource" : {
+    "url" : "https:\/\/github.com\/thomfang\/xcode-localizable-translation",
+    "hash" : "667f2c304ebc88f1c50db5e8532dbd8e",
+    "autoUpdateInterval" : null
+  },
+  "runInApp" : false,
+  "localizedDescriptions" : {
+    "de" : "",
+    "it" : "",
+    "en" : "",
+    "ja" : "",
+    "ru" : "",
+    "pt" : "",
+    "zh" : "用于翻译XCode Localizable.strings 文件的脚本",
+    "fr" : "",
+    "es" : ""
+  },
+  "name" : "Xcode Localizable Translation"
+}
